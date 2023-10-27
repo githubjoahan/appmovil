@@ -18,7 +18,7 @@ const Home = ({ correoUsuario }) => {
       ],
     },
     {
-      nombre: "Sentadillas joahan xxxxxxxxxxx",
+      nombre: "Sentadillas joahan xxxxxxxxxxx 111111111",
       pasos: [
         "De pie, con las piernas separadas al ancho de los hombros.",
         "Baja tus caderas como si fueras a sentarte en una silla.",
