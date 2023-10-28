@@ -10,7 +10,7 @@ const Home = ({ correoUsuario }) => {
   // eslint-disable-next-line no-unused-vars
   const [ejercicios, setEjercicios] = useState([
     {
-      nombre: "Flexiones ",
+      nombre: "Flexiones tres beces al día",
       pasos: [
         "Colócate boca abajo, con las manos a la altura de los hombros.",
         "Eleva tu cuerpo usando la fuerza de tus brazos.",
