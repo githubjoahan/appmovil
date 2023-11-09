@@ -10,7 +10,7 @@ const Home = ({ correoUsuario }) => {
   // eslint-disable-next-line no-unused-vars
   const [ejercicios, setEjercicios] = useState([
     {
-      nombre: "20",
+      nombre: "joahan",
       pasos: [
         "Colócate boca abajo, con las manos a la altura de los hombros.",
         "Eleva tu cuerpo usando la fuerza de tus brazos.",
@@ -18,7 +18,7 @@ const Home = ({ correoUsuario }) => {
       ],
     },
     {
-      nombre: "20",
+      nombre: "Leandro",
       pasos: [
         "De pie, con las piernas separadas al ancho de los hombros.",
         "Baja tus caderas como si fueras a sentarte en una silla.",
@@ -26,7 +26,7 @@ const Home = ({ correoUsuario }) => {
       ],
     },
     {
-      nombre: "Abdominales",
+      nombre: "Ceci",
       pasos: [
         "Acuéstate boca arriba con las rodillas dobladas y los pies apoyados en el suelo.",
         "Coloca las manos detrás de la cabeza sin entrelazar los dedos.",
