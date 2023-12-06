@@ -26,7 +26,7 @@ const Home = ({ correoUsuario }) => {
       ],
     },
     {
-      nombre: "Ceci ---------------------------- eeeeeeeeee",
+      nombre: "Ceci ",
       pasos: [
         "Acuéstate boca arriba con las rodillas dobladas y los pies apoyados en el suelo.",
         "Coloca las manos detrás de la cabeza sin entrelazar los dedos.",
