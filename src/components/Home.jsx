@@ -10,7 +10,7 @@ const Home = ({ correoUsuario }) => {
   // eslint-disable-next-line no-unused-vars
   const [ejercicios, setEjercicios] = useState([
     {
-      nombre: "joahan gutierrez Alvaro 85898895489",
+      nombre: "joahan gutierrez Alvaro 10A",
       pasos: [
         "Colócate boca abajo, con las manos a la altura de los hombros.",
         "Eleva tu cuerpo usando la fuerza de tus brazos.",
